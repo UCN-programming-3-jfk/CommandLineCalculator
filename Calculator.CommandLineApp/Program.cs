@@ -5,6 +5,7 @@ internal class Program
     static void Main(string[] args)
     {
         InspectArgumentsAndPerformActions(args);
+
     }
 
     private static void InspectArgumentsAndPerformActions(string[] args)
